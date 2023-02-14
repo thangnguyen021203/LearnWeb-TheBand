@@ -1,0 +1,22 @@
+background(short-hand)
+
+background image
+background repeat
+background position
+background size (cover, contain)
+background color
+
+background: color url() position / size repeat;
+
+
+
+
+*Các thành phần:
+	1.header
+	2.navigation
+	3.breadcrumb
+	4.Sidebar
+	5.Slider
+	6.Content
+	7.Footer
+	8.Banner
